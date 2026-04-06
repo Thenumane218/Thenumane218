@@ -29,7 +29,7 @@ Learning cloud + DevOps
 Working toward AI-integrated systems
 🌐 Portfolio
 
-🔗 https://Thenumane218.github.io
+🔗 https://thenukaniwanjana.vercel.app
 
 📫 Contact
 <p align="center"> <a href="mailto:thenukaniwanjana@gmail.com"> <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=F97316" /> </a> <a href="https://linkedin.com/in/thenuka-niwanjana-46ab152ba"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=F97316" /> </a> </p>
